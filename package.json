@@ -1,0 +1,17 @@
+{
+  "name": "rgo-book-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdfkit": "^0.17.1",
+    "playwright": "^1.54.2",
+    "sharp": "^0.34.3"
+  }
+}
